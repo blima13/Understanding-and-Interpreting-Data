@@ -1,0 +1,94 @@
+In linear regression analysis, which values can provide a measure of the variability in the response variable that is not explained by the regression model?
+1-Predicted values  -Selected
+2-Residual values
+3-Standardized values
+4-Fitted values
+
+Which data set, when visualized, would follow a normal distribution?
+1-5,6,6,7,7,7,8,8,9  -Selected
+2-5,5,7,7,7,8,8,8,9
+3-5,5,5,5,5,6,7,8,9
+4-5,6,7,8,8,9,9,9,9
+
+Autocorrelation is:
+1-The correlation of a time series with a lagged version of itself  -Selected
+2-The correlation of a time series with another time series
+3-The automatic detection of a relationship between two time series
+4-The upward and downward movement of a time series
+
+An important pre-processing step in many natural language processing tasks is to split sentences into individual units. What is this process called?
+1-Lemmatization
+2-POS tagging
+3-Stemming
+4-Tokenization  -Selected
+
+One method to measure the spread of a variable is to calculate the difference between the third and first quartile. This measure is called:
+1-The mid quartile
+2-The inter quartile range  -Selected
+3-The differential quartile
+4-The variance measure
+
+To which category of machine learning techniques does K-means belong?
+1-Reinforcement learning
+2-Semi-supervised learning
+3-Supervised learning
+4-Unsupervised learning  -Selected
+
+Which type of plot shows the median and the data spread about the median?
+1-Boxplot  -Selected
+2-Barplot
+3-Scatterplot
+4-Stripplot
+
+Cassava plants are a key food security crop in Sub-Saharan Africa but viral diseases are a major source of poor yields.
+A survey in Uganda has yielded a dataset with over 20,000 labelled images of healthy and diseased cassava plants. 
+What kind of machine learning technique would most likely produce the best results in helping to identify common cassava plant diseases from the images?
+1-Logistic regression
+2-Hierachical clustering
+3-Random forest
+4-Neural network  -Selected
+
+You're a data scientist at a prominent logistics company. Your team has estimated that on average the company experiences 0.1 equipment failures per day.
+What is the most suitable distribution that you could use to model equipment failures for 365 days?
+1-Normal distribution
+2-Exponential distribution
+3-Uniform distribution
+4-Poisson distribution  -Selected
+
+Which of the following situations would be most suited to a logistic regression?
+1-Predicting the amount of time a family takes to get their kid to school
+2-Predicting the number of parents arriving at a clinic for checkups of a newborn
+3-Predict the home ownership status of a family based on an estimation of theis income  -Selected
+4-Predicting the monthly electricity consumption in kWh of residential buildings
+
+What are some important considerations in choosing to apply Deep Learning?
+
+(A) Quantity of training data  -Selected
+(B) Structure of the data  -Selected
+(C) Reliability of the model  -Selected
+(D) Available hardware  -Selected
+
+Graphical processing units enabled the development of deep learning models from neural networks. When does a neural network become a deep learning model?
+1-When the neural network will be used to classify images
+2-When more hidden layers are added to a neural network  -Selected
+3-When the neural network is comned with another machine learnig model
+4-When the neural networki will be used to process Big Data
+
+Which of the following situations would be most suited to a logistic regression?
+1-Predicting the amount of time a customer will take to pay for goods they buy
+2-Predicting the number of users arriving at your online store an a given day
+3-Predicting the total revenue on a given day based on number of customers  -Selected
+4-Predicting whether a customer will buy a product that you are selling
+
+The Belgian government would like to determine how much fries, in kilogram, the average Belgian adult consumes per year. 
+Should they use a hypothesis test or a confidence interval?
+1-A hypothesis test because their goal is to investigate a particular researsh claim
+2-A hypothesis test because their goal is to estimate a population parameter  -Selected
+3-A confidence interval because their goal is to investigate a particular research claim
+4-A confidence interval because their goal is to estimate a population parameter
+
+In which scenario will a clustering algorithm be the most appropriate machine learning algorithm to apply?
+1-In the development of a fraud detection system where you have a decent sized training data set with a labelled output
+2-In the development of a machine translation service
+3-in the development of a system to group like minded twitter users  -Selected
+4-In the development of a system to predict the quality of a manufactured product from known upstram metrics
